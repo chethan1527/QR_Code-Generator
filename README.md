@@ -10,3 +10,12 @@ Python 3.x Libraries required: qrcode tkinter PIL
 3. Enter the URL you want to encode when prompted.
 4. Click on generate and save button.
 5. QR code will be saved and location of it will be displayed.
+
+# Output
+![image](https://github.com/chethan1527/QR_Code-Generator/assets/114822838/ea010492-89fb-4e6c-823f-4947839ccb24)
+
+Qr-code
+
+![image](https://github.com/chethan1527/QR_Code-Generator/assets/114822838/c782eb23-71e5-46e9-beeb-a16b9fdfff7f)
+
+
